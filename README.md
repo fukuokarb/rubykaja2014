@@ -10,7 +10,7 @@ Fukuoka.rb の RubyKaja 2014 の選出用リポジトリ
 ## やりかた
 
 * 立候補制（数が少ない場合他薦も検討）
-* 立候補者は、そのその年RubyやRubyコミュニティ、Fukuoka.rbに関してやったことをまとめてプルリクエストを送る。
+* 立候補者は、その年RubyやRubyコミュニティ、Fukuoka.rbに関してやったことをまとめてプルリクエストを送る。
 * `<user ID>.md` のような名前のファイルを作る。
 * 立候補者がそろったら、Fukuoka.rbのfacebookコミュニティとlingrチャンネルで周知するので、一人一票として投票する
   * http://lingr.com/room/fukuokarb
